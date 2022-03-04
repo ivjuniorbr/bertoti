@@ -1,0 +1,18 @@
+MATERIAL DE AULA => TXT => SLIDES
+
+REQUISITOS: são as necessidades do cliente
+
+=> FUNCIONAIS: ações do sistema (verbo)
+- casos de uso (diagrama)
+- draw.io (site para criar diagramas)
+- https://app.diagrams.net/
+
+Ex.:
+Aluno => abrir o sistema => entrar na sala => abrir a webcam =>abrir o microfone => abrir atividade  => enviar atividade => sair da sala
+
+Professor => abrir o sistema => entrar na sala => abrir a webcam =>abrir o microfone => postar atividade  => lançar nota  => sair da sala
+
+
+=> NÃO FUNCIONAIS: qualidades do sistema (adjetivos)
+- usabilidade (telas do sistema)
+https://www.nngroup.com/articles/ten-usability-heuristics/
