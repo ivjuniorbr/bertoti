@@ -25,3 +25,8 @@
 #### 1.3. Projeto de Sistemas
 ![05 - Projeto de Sistema](https://user-images.githubusercontent.com/20825226/172967679-c8df0ef2-62b6-401d-b3a8-3c48cc631a1a.jpg)
 
+#### 1.4. Desenvolvimento
+![09 - Plataforma de ensino](https://user-images.githubusercontent.com/20825226/172967841-4edc0f62-9cfa-446a-8ba5-d5277b8c0189.jpg)
+
+#### 1.5. Disciplina
+![08 - Disciplina](https://user-images.githubusercontent.com/20825226/172967940-5fe6b44a-828e-4b60-90ea-47ed88a7d326.jpg)
