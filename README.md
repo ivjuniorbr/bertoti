@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="460" height="300" src="![qrcode-git-bertoti-ivaldojr](https://user-images.githubusercontent.com/20825226/172972175-624bdd32-0d05-4e75-8451-086d6d0630dc.png)">
+  <img width="460" height="300" src=""![qrcode-git-bertoti-ivaldojr](https://user-images.githubusercontent.com/20825226/172972565-8c8d39ed-8f22-4a37-9744-c6ee4b9702be.png>
+
 </p>
 ## FATEC - São José dos Campos/SP
 #### 2º Semestre do Curso de Banco de Dados
