@@ -28,5 +28,9 @@
 #### 1.4. Desenvolvimento
 ![09 - Plataforma de ensino](https://user-images.githubusercontent.com/20825226/172967841-4edc0f62-9cfa-446a-8ba5-d5277b8c0189.jpg)
 
-#### 1.5. Disciplina
+#### 1.5. Disciplinas
 ![08 - Disciplina](https://user-images.githubusercontent.com/20825226/172967940-5fe6b44a-828e-4b60-90ea-47ed88a7d326.jpg)
+
+#### 1.6. Aluno
+![06 - Aluno](https://user-images.githubusercontent.com/20825226/172968042-00e2389f-f5c4-4fe9-9d50-b849b9fd8e94.jpg)
+
