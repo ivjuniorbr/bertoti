@@ -12,3 +12,8 @@
 #### 1.1. Funcionais
 ##### a) Casos de uso:
 ![10 - Funcionais](https://user-images.githubusercontent.com/20825226/172966809-796af746-670e-4818-95b2-ef48edb431d6.JPG)
+
+##### b) Story Cards:
+![04 - Cards](https://user-images.githubusercontent.com/20825226/172967101-5f81db10-f931-4ba9-9957-cbb2cfe82d70.jpg)
+
+##### b) Não Funcionais
