@@ -1,4 +1,6 @@
-![qrcode-git-bertoti-ivaldojr](https://user-images.githubusercontent.com/20825226/172972175-624bdd32-0d05-4e75-8451-086d6d0630dc.png)
+<p align="center">
+  <img width="460" height="300" src="![qrcode-git-bertoti-ivaldojr](https://user-images.githubusercontent.com/20825226/172972175-624bdd32-0d05-4e75-8451-086d6d0630dc.png)">
+</p>
 ## FATEC - São José dos Campos/SP
 #### 2º Semestre do Curso de Banco de Dados
 #### Disciplina: Engenharia de Software
