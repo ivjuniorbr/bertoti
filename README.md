@@ -1,4 +1,5 @@
-## FATEC - São José dos Campos/SP ![qrcode_github com](https://user-images.githubusercontent.com/20825226/172971606-55676c98-4d11-4936-89d6-e8c8132f90f5.png)
+![qrcode-git-bertoti-ivaldojr](https://user-images.githubusercontent.com/20825226/172972175-624bdd32-0d05-4e75-8451-086d6d0630dc.png)
+## FATEC - São José dos Campos/SP
 #### 2º Semestre do Curso de Banco de Dados
 #### Disciplina: Engenharia de Software
 #### Docente: Giuliano Bertoti
