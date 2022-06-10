@@ -1,8 +1,9 @@
-## FATEC - São José dos Campos/SP
+## FATEC - São José dos Campos/SP ![qrcode_github com](https://user-images.githubusercontent.com/20825226/172971606-55676c98-4d11-4936-89d6-e8c8132f90f5.png)
 #### 2º Semestre do Curso de Banco de Dados
 #### Disciplina: Engenharia de Software
 #### Docente: Giuliano Bertoti
 #### Discente: Ivaldo Silva do Lago Júnior
+
 #### RA Nº: 1460282123013
 
 ### Ciclos de Vida do Desenvolvimento de Software - é a estrutura contendo processos, atividades e tarefas envolvidas no desenvolvimento, operação e manutenção de um produto de software, abrangendo a vida do sistema, desde a definição de seus requisitos até o término de seu uso.
