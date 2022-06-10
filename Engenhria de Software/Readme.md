@@ -16,4 +16,4 @@
 ##### b) Story Cards:
 ![04 - Cards](https://user-images.githubusercontent.com/20825226/172967101-5f81db10-f931-4ba9-9957-cbb2cfe82d70.jpg)
 
-##### b) Não Funcionais
+#### 1.2. Não Funcionais
