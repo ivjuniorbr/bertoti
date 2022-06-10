@@ -6,7 +6,7 @@
 ##### RA Nº: 1460282123013
 
 ### Ciclo de vida de Desenvolvimento de Software
-##### Ex.: A atividade apresentada será desenvolver uma plataforma de ensino que fará a interação Professor e Aluno.
+### Ex.: A atividade consiste em desenvolver uma plataforma de ensino que fará a interação Aluno e Professor.
 
 ### 1. Requisitos:
 #### 1.1. Funcionais
