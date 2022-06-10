@@ -1,8 +1,8 @@
 ## FATEC - São José dos Campos/SP
 ##### 2º Semestre do Curso de Banco de Dados
-##### Engenharia de Software
-##### Giuliano Bertoti
-##### Ivaldo Silva do Lago Júnior
+##### Disciplina: Engenharia de Software
+##### Docente: Giuliano Bertoti
+##### Discente: Ivaldo Silva do Lago Júnior
 ##### RA Nº: 1460282123013
 
 ### Ciclo de vida de Desenvolvimento de Software
