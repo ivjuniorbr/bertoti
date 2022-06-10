@@ -5,8 +5,9 @@
 ##### Discente: Ivaldo Silva do Lago Júnior
 ##### RA Nº: 1460282123013
 
-### Ciclo de vida de Desenvolvimento de Software
-### Ex.: A atividade consiste em desenvolver uma plataforma de ensino que fará a interação Aluno e Professor.
+### Ciclos de Vida do Desenvolvimento de Software - é a estrutura contendo processos, atividades e tarefas envolvidas no desenvolvimento, operação e manutenção de um produto de software, abrangendo a vida do sistema, desde a definição de seus requisitos até o término de seu uso.
+
+### A atividade consiste em desenvolver uma plataforma de ensino que fará a interação Aluno e Professor.
 
 ### 1. Requisitos:
 #### 1.1. Funcionais
