@@ -35,4 +35,5 @@
 ![06 - Aluno](https://user-images.githubusercontent.com/20825226/172968042-00e2389f-f5c4-4fe9-9d50-b849b9fd8e94.jpg)
 
 #### 1.7. Professor!
-[07 - Professor](https://user-images.githubusercontent.com/20825226/172968173-25f4fd45-7bea-4939-b678-34ed15bde033.jpg)
+[07 - Professor]
+(https://user-images.githubusercontent.com/20825226/172968173-25f4fd45-7bea-4939-b678-34ed15bde033.jpg)
