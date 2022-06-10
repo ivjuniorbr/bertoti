@@ -17,3 +17,4 @@
 ![04 - Cards](https://user-images.githubusercontent.com/20825226/172967101-5f81db10-f931-4ba9-9957-cbb2cfe82d70.jpg)
 
 #### 1.2. Não Funcionais
+##### a) Usabilidades:
